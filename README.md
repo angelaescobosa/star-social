@@ -1,7 +1,6 @@
 # Star Social
 
-Star Social is a social network web application built with Django. Users can create groups and posts, see other user's posts, join <img width="1440" height="900" alt="Captura de pantalla 2026-07-31 a la(s) 10 30 27 a m" src="https://github.com/user-attachments/assets/ca14d26c-9d37-402f-a84b-31566d7868b4" />
-and participate in groups.
+Star Social is a social network web application built with Django. Users can create groups and posts, see other user's posts, join and participate in groups.
 
 This project was developed as part of my Django learning journey, with a focus on building a complete web application using Django's authentication system, class-based views, models, forms, templates, and Bootstrap.
 
