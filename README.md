@@ -43,7 +43,7 @@ Through this project, I practiced building a complete Django application from th
 ## Screenshots
 
 <img width="1440" height="900" alt="Captura de pantalla 2026-07-31 a la(s) 10 30 52 a m" src="https://github.com/user-attachments/assets/8c4673d1-b3c3-4c95-af18-f98a781a11b7" />
-<img width="1440" height="900" alt="Captura de pantalla 2026-07-31 a la(s) 10 31 31 a m" src="https://github.com/user-attachments/assets/a97eeed9-61e5-4126-978e-7d093f252a55" />
+<img width="1440" height="900" alt="Captura de pantalla 2026-07-31 a la(s) 10 56 09 a m" src="https://github.com/user-attachments/assets/f7336482-ef97-41af-b7a4-1dcfefc9e2f4" />
 <img width="1440" height="900" alt="Captura de pantalla 2026-07-31 a la(s) 10 32 22 a m" src="https://github.com/user-attachments/assets/ba7e35d0-66de-49e8-b1e5-94cea91b0f16" />
 <img width="1440" height="900" alt="Captura de pantalla 2026-07-31 a la(s) 10 32 46 a m" src="https://github.com/user-attachments/assets/a9a0571e-453e-439c-9c04-79ec56bbe890" />
 
